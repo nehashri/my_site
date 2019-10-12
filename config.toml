@@ -1,0 +1,17 @@
+baseURL = "https://nehashri.dev"
+languageCode = "en-us"
+title = "Nehashri's site"
+theme = "hallo"
+[Author]
+    name = "Nehashri"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/nehashri"
+
+[params.colors]
+        background = "#9932CC"
+        foreground = "#edf7ff"
+        hover = "#FF8C00"
